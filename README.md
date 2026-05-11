@@ -154,18 +154,6 @@ Run Jupyter Notebook:
 jupyter notebook
 ```
 
----
-
-# Future Improvements
-
-- Fine-tuning transformer models
-- Deploying the model as a web application
-- Real-time sentiment prediction API
-- GPU-based BERT training
-- Hyperparameter optimization
-
----
-
 # Author
 
 ## Bryan Brandon Patiño Guerrero
