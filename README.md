@@ -148,20 +148,6 @@ Negative Review
 
 ---
 
-# Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/film-junky-union.git
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 Run Jupyter Notebook:
 
 ```bash
